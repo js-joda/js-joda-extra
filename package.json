@@ -48,7 +48,7 @@
     "coveralls": "^2.11.15",
     "esdoc": "^0.4.8",
     "eslint": "^3.10.2",
-    "eslint-config-airbnb": "^13.0.0",
+    "eslint-config-airbnb": "^14.0.0",
     "eslint-config-standard": "^6.2.1",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^2.2.3",
